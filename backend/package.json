@@ -1,0 +1,23 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "mongodb tarea",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Morales, Diego Palmerin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "memorystore": "^1.6.7",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
